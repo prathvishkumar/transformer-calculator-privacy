@@ -37,13 +37,13 @@ We respect your privacy and are committed to protecting it.
 
 <h2>Information Collection</h2>
 <p>
-The app does <strong>not collect, store, or share any personal information</strong> such as
+This app does <strong>not collect, store, or share any personal information</strong> such as
 name, email address, phone number, location, or contacts.
 </p>
 
 <h2>Internet Usage</h2>
 <p>
-The app uses internet access only for the following purposes:
+This app uses internet access only for the following purposes:
 </p>
 <ul>
     <li><strong>License Verification:</strong> To verify purchase and license status using Google Play Billing services.</li>
@@ -52,7 +52,7 @@ The app uses internet access only for the following purposes:
 
 <h2>Local Storage</h2>
 <p>
-The app uses device storage only to:
+This app uses device storage only to:
 </p>
 <ul>
     <li>Save user-generated PDF files.</li>
@@ -61,7 +61,7 @@ The app uses device storage only to:
 
 <h2>Third-Party Services</h2>
 <p>
-The app uses <strong>Google Play Billing</strong>, which is provided by Google.
+This app uses <strong>Google Play Billing</strong>, which is provided by Google.
 Payment and purchase information is handled directly by Google and is not accessible to the developer.
 </p>
 <p>
@@ -74,7 +74,7 @@ https://policies.google.com/privacy
 <h2>Data Security</h2>
 <p>
 License information is stored securely using encrypted local storage.
-The app does not transmit or back up stored data outside the device.
+This app does not transmit or back up stored data outside the device.
 </p>
 
 <h2>Children’s Privacy</h2>
@@ -92,7 +92,7 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 If you have any questions about this Privacy Policy, you may contact the developer at:
 </p>
 <p>
-<strong>Email:</strong>prathvishkumar@gmail.com
+<strong>Email : </strong>prathvishkumar@gmail.com
 </p>
 
 <footer>
