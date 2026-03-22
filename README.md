@@ -26,7 +26,7 @@
 <body>
 
 <h1>Privacy Policy</h1>
-<p><strong>Transformer Calculator App</strong></p>
+<p><strong>Transformer Calculator</strong></p>
 <p>Effective Date: <strong>2025-12-28</strong></p>
 
 <h2>Introduction</h2>
