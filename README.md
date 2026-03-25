@@ -50,7 +50,8 @@
     <p>The app uses device storage only to save user-generated PDF files and store encrypted license status locally for offline access.</p>
 
 <h2>Permissions</h2>
-    <p>The app may request storage permission only to save user-generated PDF files on the device. No other sensitive permissions are used.</p>
+    <p>The app requests storage permission only on older Android versions (Android 9 and below) to save PDF files.
+No personal data is accessed or collected</p>
 
  <h2>Third-Party Services</h2>
     <p>The app uses Google Play Billing provided by Google to process purchases and verify licenses.</p>
