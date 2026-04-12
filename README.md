@@ -72,7 +72,7 @@
 
 
 <h2>Children’s Privacy</h2>
-    <p>This app does not target children under the age of 13 and does not knowingly collect personal data from children.</p>
+    <p>The app does not target children under the age of 13 and does not knowingly collect personal data from children.</p>
 
  <h2>Changes to This Policy</h2>
     <p>This privacy policy may be updated from time to time. Any changes will be reflected on this page.</p>
