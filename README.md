@@ -80,17 +80,17 @@
 <h2>Disclaimer and Limitation of Liability</h2>
     <p>The information and calculations provided by the Transformer Calculator app are intended for general guidance and educational purposes only. While every effort has been made to ensure accuracy, the results may not be suitable for real-world electrical design, industrial applications, or safety-critical uses.
                 
-Users should verify all calculations and design parameters with qualified professionals and relevant standards or regulations before implementation. The developer and publishers of this app are not responsible for any damages, losses, or injuries resulting from the use or misuse of the information or tools within the app.
+<p>Users should verify all calculations and design parameters with qualified professionals and relevant standards or regulations before implementation. The developer and publishers of this app are not responsible for any damages, losses, or injuries resulting from the use or misuse of the information or tools within the app.
                
-Not a substitute for certified electrical engineering advice.
+<p>"Not a substitute for certified electrical engineering advice."</p>
                
-Values may vary based on materials, environment, and manufacturing tolerances.
+<p>"Values may vary based on materials, environment, and manufacturing tolerances."</p>
                
-Use at your own risk.
+<p>"Use at your own risk."</p>
              
-High-voltage and transformer equipment can be hazardous.
+<p>"High-voltage and transformer equipment can be hazardous."</p>
               
-By using this app, you acknowledge and agree that you assume full responsibility for any decisions or actions taken based on its outputs.</p>
+<p>By using this app, you acknowledge and agree that you assume full responsibility for any decisions or actions taken based on its outputs.</p>
     
 
 
